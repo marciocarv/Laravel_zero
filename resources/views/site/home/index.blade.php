@@ -1,1 +1,1 @@
-teste de rota
+View referente a arquino index
