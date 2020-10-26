@@ -1,1 +1,9 @@
-aqui é a tela de categoria
+@extends('layouts.site')
+
+@section('content')
+
+<div>
+    <p>Categoria</p>
+</div>
+
+@endsection

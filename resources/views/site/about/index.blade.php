@@ -1,1 +1,9 @@
-Essa é nossa página sobre
+@extends('layouts.site')
+
+@section('content')
+
+<div>
+    <p>Sobre</p>
+</div>
+
+@endsection

@@ -1,1 +1,9 @@
-View referente a arquino index
+@extends('layouts.site')
+
+@section('content')
+
+<div>
+    <p>Home</p>
+</div>
+
+@endsection

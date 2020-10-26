@@ -1,1 +1,9 @@
-Esse é a pagina do nosso blog
+@extends('layouts.site')
+
+@section('content')
+
+<div>
+    <p>Blog</p>
+</div>
+
+@endsection

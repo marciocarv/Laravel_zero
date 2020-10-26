@@ -1,1 +1,9 @@
-Essa é nossa pagina de contato
+@extends('layouts.site')
+
+@section('content')
+
+<div>
+    <p>Contact</p>
+</div>
+
+@endsection
